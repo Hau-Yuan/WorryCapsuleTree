@@ -31,7 +31,7 @@ let InputEmail;
 let userName
 
 //voice recognition
-let url = 'https://api.mlab.com/api/1/databases/timecapsuletree/collections/worries?apiKey=14kAyAdferbHLiBeRXCOjBK0147pWlVA';
+let url = '';
 let counter = 0;
 let buttonclicked = false;
 let index = [];
